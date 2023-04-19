@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.App {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+}
+
+.major-search {
+  font-family: 'Open Sans', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 50px;
+}
+
+.major-search img {
+  max-width: 200px;
+}
+
+.major-search h1 {
+  font-size: 1.8rem;
+  margin-top: 1rem;
+}
+
+label {
+  display: block;
+  margin-bottom: 1rem;
+}
+
+select {
+  font-size: 1rem;
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  border: 1px solid #ccc;
+}
+
+hr {
+  margin: 2rem;
+}
+
+p {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  border-radius: 0.5rem;
+  background-color: #dbd0ba;
+  padding: 1rem;
+  margin: 1rem;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+}
+
+tr {
+  font-size: 1rem;
+  line-height: 1.75;
+  background-color: #dbd0ba;
+  border-radius: 0.25rem;
+}
+
+td {
+  padding: 0.5rem;
+}

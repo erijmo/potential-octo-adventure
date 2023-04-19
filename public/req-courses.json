@@ -1,0 +1,519 @@
+{
+  "req-courses": {
+    "Computer Science": [
+      {
+        "majorCode": "CSC",
+        "course_code": "CSC 1200",
+        "name": "Functional Programming I",
+        "credits": "3"
+      },
+
+      {
+        "majorCode": "CSC",
+        "course_code": "CSC 2290",
+        "name": "Discrete Mathematical Structures",
+        "credits": "3"
+      },
+
+      {
+        "majorCode": "CSC",
+        "course_code": "CSC 2350",
+        "name": "Object-Oriented Programming and Design",
+        "credits": "3"
+      },
+
+      {
+        "majorCode": "CSC",
+        "course_code": "CSC 2430",
+        "name": "Design and Analysis of Algorithms",
+        "credits": "3"
+      },
+
+      {
+        "majorCode": "CSC",
+        "course_code": "CSC 2440",
+        "name": "Data Structures",
+        "credits": "4"
+      },
+
+      {
+        "majorCode": "CSC",
+        "course_code": "CSC 4600",
+        "name": "Internship I",
+        "credits": "3"
+      },
+
+      {
+        "majorCode": "CSC",
+        "course_code": "CSC 4900",
+        "name": "Capstone Seminar",
+        "credits": "3"
+      }
+    ],
+    
+    "Mathematics": [
+      {
+        "major_code": "MAT",
+        "course_code": "MAT 1150",
+        "name": "Elementary Statistics",
+        "credits": "3"
+      },
+      
+      {
+        "major_code": "MAT",
+        "course_code": "MAT 2210",
+        "name": "Calculus I",
+        "credits": "4"
+      },      
+      
+      {
+        "major_code": "MAT",
+        "course_code": "MAT 2220",
+        "name": "Calculus II",
+        "credits": "4"
+      },
+      
+      {
+        "major_code": "MAT",
+        "course_code": "MAT 2230",
+        "name": "Calculus III",
+        "credits": "4"
+      },
+      
+      {
+        "major_code": "MAT",
+        "course_code": "MAT 2290",
+        "name": "Discrete Mathematical Structures",
+        "credits": "3"
+      },
+      
+      {
+        "major_code": "MAT",
+        "course_code": "MAT 2320",
+        "name": "Introduction to Linear Algebra",
+        "credits": "3"
+      },
+      
+      {
+        "major_code": "MAT",
+        "course_code": "MAT 2510",
+        "name": "Modern Geometry",
+        "credits": "3"
+      },
+      
+      {
+        "major_code": "MAT",
+        "course_code": "MAT 3240",
+        "name": "History and Philosophy of Mathematics",
+        "credits": "3"
+      },
+      
+      {
+        "major_code": "MAT",
+        "course_code": "MAT 3300",
+        "name": "Modern Algebra - Ring Theory",
+        "credits": "3"
+      },
+      
+      {
+        "major_code": "MAT",
+        "course_code": "MAT 3450",
+        "name": "Introduction to Real Analysis",
+        "credits": "3"
+      },
+      
+      {
+        "major_code": "MAT",
+        "course_code": "MAT 4600",
+        "name": "Internship in Mathematics",
+        "credits": "3"
+      },
+      
+      {
+        "major_code": "MAT",
+        "course_code": "MAT 4900",
+        "name": "Mathematics Senior Seminar",
+        "credits": "3"
+      }
+    ],
+    
+    "Accounting": [
+      {
+        "major_code": "ACC",
+        "course_code": "ACC 2600",
+        "name": "Accounting I",
+        "credits": "3"
+      },
+
+      {  
+        "major_code": "ACC",
+        "course_code": "ACC 2610",
+        "name": "Accounting II",
+        "credits": "3"
+      },
+
+      {
+        "major_code": "ACC",
+        "course_code": "ACC 3620",
+        "name": "Intermediate Accounting I",
+        "credits": "3"
+      },
+
+      {  
+        "major_code": "ACC",
+        "course_code": "ACC 3630",
+        "name": "Intermediate Accounting II",
+        "credits": "3"
+      },
+
+      {  
+        "major_code": "ACC",
+        "course_code": "ACC 3640",
+        "name": "Cost and Managerial Accounting Systems",
+        "credits": "3"
+      },
+
+      {  
+        "major_code": "ACC",
+        "course_code": "ACC 3660",
+        "name": "Taxation I",
+        "credits": "3"
+      },
+
+      {  
+        "major_code": "ACC",
+        "course_code": "ACC 3670",
+        "name": "Taxation II",
+        "credits": "3"
+      },
+
+      {  
+        "major_code": "ACC",
+        "course_code": "ACC 3680",
+        "name": "Advanced Accounting",
+        "credits": "3"
+      },
+
+      {  
+        "major_code": "ACC",
+        "course_code": "ACC 3690",
+        "name": "Auditing",
+        "credits": "3"
+      },
+
+      {  
+        "major_code": "ACC",
+        "course_code": "ACC 3690",
+        "name": "Accounting Capstone",
+        "credits": "3"
+      }   
+    ],
+    
+    "Art": [
+      {
+        "major_code": "ART",
+        "course_code": "ART 1010",
+        "name": "Two-Dimensional Design",
+        "credits": "3"
+      },
+
+      {  
+        "major_code": "ART",
+        "course_code": "ART 1020",
+        "name": "Drawing",
+        "credits": "3"
+      },
+
+      {
+        "major_code": "ART",
+        "course_code": "ART 1110",
+        "name": "Figure Drawing I",
+        "credits": "3"
+      },
+
+      {  
+        "major_code": "ART",
+        "course_code": "ART 1350",
+        "name": "History of Western Art I: Prehistoric to Renaissance",
+        "credits": "3"
+      },
+
+      {  
+        "major_code": "ART",
+        "course_code": "ART 1360",
+        "name": "History of Western Art II: Renaissance to Modernism",
+        "credits": "3"
+      },
+      
+      {
+        "major_code": "ART",
+        "course_code": "ART 2140",
+        "name": "Color Theory-Advanced Design",
+        "credits": "3"
+      },
+
+      {  
+        "major_code": "ART",
+        "course_code": "ART 1570",
+        "name": "Digital Photography I",
+        "credits": "3"
+      },
+
+      {
+        "major_code": "ART",
+        "course_code": "ART 2280",
+        "name": "Modern Art",
+        "credits": "3"
+      },
+
+      {  
+        "major_code": "ART",
+        "course_code": "ART 2330",
+        "name": "Contemporary Art",
+        "credits": "3"
+      },
+
+      {  
+        "major_code": "ART",
+        "course_code": "ART 4900",
+        "name": "Senior Thesis Project",
+        "credits": "3"
+      }
+    ],
+
+    "American Sign Language": [
+      {
+        "major_code": "ASL",
+        "course_code": "ASL 1010 01",
+        "name": "Beginning ASL 1",
+        "credits": "3"
+      },
+
+      {
+        "major_code": "ASL",
+        "course_code": "ASL 1010 02",
+        "name": "Beginning ASL 1",
+        "credits": "3"
+      },
+
+      {
+        "major_code": "ASL",
+        "course_code": "ASL 1020",
+        "name": "Beginning ASL 2",
+        "credits": "3"
+      },
+
+      {
+        "major_code": "ASL",
+        "course_code": "ASL 1060",
+        "name": "ASL Hlth Prof 1",
+        "credits": "3"
+      }
+    ],
+
+    "Biology": [
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1100 01",
+        "name": "Human Biology",
+        "credits": "3"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1100 02",
+        "name": "Human Biology",
+        "credits": "3"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1100 03",
+        "name": "Human Biology",
+        "credits": "3"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1100 04",
+        "name": "Human Biology",
+        "credits": "3"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 A1",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 A2",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 A3",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 B1",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 B2",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 B3",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 C1",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 C2",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 C3",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 C4",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 C5",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 D1",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 D2",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 E1",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 E2",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 E3",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 F1",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 F2",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 F3",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 F4",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 G1",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 H1",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 H2",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 H3",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      },
+
+      {
+        "major_code": "BIO",
+        "course_code": "BIO 1200 E1",
+        "name": "Anat/Physio I",
+        "credits": "4"
+      }
+    ]
+  }
+}
